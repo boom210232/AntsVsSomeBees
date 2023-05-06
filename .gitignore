@@ -22,3 +22,23 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# custom
+bin/
+build/
+out/
+.DS_[Ss]tore
+__pycache__
+*.pyc
+# IDE files
+.idea
+*.iml
+package.bluej
+.nbproject
+.vscode
+vscode
+# Include Eclipse project files as hint to IntelliJ
+#.classpath
+#.settings
+#.project
+
